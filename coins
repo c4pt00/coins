@@ -119,6 +119,29 @@
     },
     "derivation_path": "m/44'/60'"
   },
+
+ {
+    "coin": "GNEISS-ERC20",
+    "name": "gneiss_erc20",
+    "fname": "GNEISS",
+    "rpcport": 80,
+    "mm2": 1,
+    "chain_id": 1,
+    "avg_blocktime": 15,
+    "required_confirmations": 3,
+    "decimals": 18,
+    "protocol": {
+      "type": "ERC20",
+      "protocol_data": {
+        "platform": "ETH",
+        "contract_address": "0x5da3e93fab0580bd7a532a741ac5f886376eff46"
+      }
+    },
+    "derivation_path": "m/44'/60'"
+  },
+
+
+
   {
     "coin": "1INCH-KRC20",
     "name": "1inch_krc20",
